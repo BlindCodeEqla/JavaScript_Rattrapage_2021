@@ -35,6 +35,9 @@ function monPrenom() {
 6. Afficher en console le tableau “joursSemaine”.
 
 # Les code JavaScript
+Le code JavaScript se trouve aussi dans ce dossier sur le nom de js0.js.
+
+
 ```
 let asbl="EQLA" // Les chaines de characters on les mettre entre ""
 let prefix = 32 // Les chifres vont sans "" 
