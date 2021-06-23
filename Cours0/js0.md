@@ -16,7 +16,7 @@ Dans le cours d’aujourd’hui on a utilisé les variables de type:
 * Les noms des variables sont sensibles aux majuscules et minuscules. Pour JavaScript la variable *A* majuscule et *a* minuscule sont deux variables differentes
 * Ce n’est pas obligatoire mais par convention, les variables, objets et fonctions suivent la convention **camelCase**. C’est une notation consistant à écrire un ensemble de mots en les liant sans espace ni ponctuation, et en mettant en capitale la première lettre de chaque mot. La première lettre du premier mot peut être en majuscule ou en minuscule, selon la convention.
 
-## 2. Les Fonctiones
+## 2. Les Fonctions
 Une fonction JavaScript est un bloque de code qui fait une tâche spécifique. La fonction tourne uniquement quand elle est appellée/invoquée dans le programme. Si la fonction n’est jamais appelée/invoquée, elle ne va jamais tourner.
 
 La fonction est définie avec le mot clé “function” suivi de un nom. Les paramètres sont listés dans des parenthèses ().
