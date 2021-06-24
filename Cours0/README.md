@@ -32,7 +32,7 @@ function monPrenom() {
 3. Définir un tableau “mesChansonsPreferees” avec vos deux chansons preferées.
 4. Afficher en console le tableau “joursSemaine”.
 5. Afficher en console l'object “chansonPreferee”.
-6. Afficher en console le tableau “joursSemaine”.
+6. Afficher en console le tableau “mesChansonsPreferees”.
 
 # Les code JavaScript
 Le code JavaScript se trouve aussi dans ce dossier sur le nom de js0.js.
