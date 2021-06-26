@@ -39,13 +39,13 @@ Le code JavaScript se trouve aussi dans ce dossier sur le nom de js0.js.
 
 
 ```
-let asbl="EQLA" // Les chaines de characters on les mettre entre ""
-let prefix = 32 // Les chifres vont sans "" 
-let pi = 3.14   // Pour les chifres decimals on utilise . et pas ,
-const NOEL2021 = new Date(2021, 12, 25); // On utilise const pour stoquer une valeur qui va jamais changer. Date est un Object JavaScript (On en parelera plus tarde). En géneral en MAJUSCULES
-let ajourdhui = new Date() // Ici on stoque sur la varialbe aujourdhui la date de maintenant
-let voiture = {marque:"Renault", model:"Clio", vitesse: 130} // On peut créer notre prôpres objets pour stocker des donnes complexes
-let tableau = ["forchette","couteau","cuillere","serviette"] // On peut utiliser des tableau (Arrays) pour stocker plusiers valeurs. Chaque valeur est séparer de un ,
+let asbl="EQLA" // Les chaines de caractères on les met entre ""
+let prefix = 32 // Les chiffres vont sans "" 
+let pi = 3.14   // Pour les chiffres décimaux on utilise . et pas ,
+const NOEL2021 = new Date(2021, 12, 25); // On utilise const pour sauvegarder une valeur qui ne va jamais changer. Date est un Object JavaScript (On en parelera plus tard). En géneral en MAJUSCULES
+let ajourdhui = new Date() // Ici on sauvegarde dans la variable aujourdhui la date de maintenant
+let voiture = {marque:"Renault", model:"Clio", vitesse: 130} // On peut créer notre propre objet pour sauvegarder des données complexes
+let tableau = ["fourchette","couteau","cuillere","serviette"] // On peut utiliser des tableaux (Arrays) pour sauvegarder plusieurs valeurs. Chaque valeur est séparée par ,
 let mois = [ {nom: "Janvier", jours:31}, {nom: "Fevrier", jours:28}, {nom:"Mars", jours:31}, {nom:"Avril", jours:30}]
 
 function monPrenom() {
