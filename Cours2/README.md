@@ -90,9 +90,10 @@ console.log(calculerSalaireJournee(100,6,'O'))
 1. Écrire une fonction equal(val1, val2): Qui reçoit deux valeurs val1 et val2. La fonction renvoit "EQUAL" si les deux valeurs sont égales et "UNEQUAL" si le deux valeurs sont différentes.
 2. Écrire une fonction calculerTaxFixe(montant): Qui reçoit un montant de base comme paramètre et qui calcule le montant total avec la taxe. Si le montant < 1000, la taxe fixe à ajouter est 200. Si le montant est >= 1000 la taxe fixe est de 300.
 3. Écrire une fonction calculerTaxPorcentage(montant): Qui reçoit le montant de base comme paramètre et qui calcule le montant total avec la taxe. Si le montant < 1000, la taxe fixe à ajouter est 10% du montant de base. Si le montant est >= 1000 la taxe fixe est de 12% du montant de base.
-4. Exercices (Martin) auCarre(n) -> renvoie n au carré
-5. Exercices (Martin) max(a, b) -> renvoie le plus grand nombre entre a & b
-6. Exercices (Martin) calcul(a, op, b) -> en supposant que a & b sont des nombre et que "op" est une chaine de caractère avec "*", "-", "+" ou "/", renvoyer le résultat de a op b (ex: calcul(3, "*", 5) -> 15)
+4. Récrire les fonctions 1,2,3 avec l'operateur flèche
+5. Exercices (Martin) auCarre(n) -> renvoie n au carré
+6. Exercices (Martin) max(a, b) -> renvoie le plus grand nombre entre a & b
+7. Exercices (Martin) calcul(a, op, b) -> en supposant que a & b sont des nombre et que "op" est une chaine de caractère avec "*", "-", "+" ou "/", renvoyer le résultat de a op b (ex: calcul(3, "*", 5) -> 15)
 
 ## 5. Le code JavaScript du Cours 
 Partie 1
