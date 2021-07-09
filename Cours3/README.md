@@ -92,14 +92,14 @@ function getMonthDays(monthList,monthName) {
 }
 ````
 
-# 4.Exercises
+# 3.Exercises
 1. Écrire une fonction sommerPaire(val1): Qui calcule la somme de tous les nombres paires de 0 jusqu'au val1.
 2. Écrire une fonction maxInList(list): Qui reçoit une liste avec des chiffres et renvoie le nombre plus élevé de la liste. Exemple: Si j'appelle la fonction avec la liste [55,21,87,2,11], la fonction renvoie 87.
 3. Écrire une fonction maxPosInList(list): Qui reçoit une liste avec des chiffres et renvoie la position où se trouve le nombre plus élevé de la liste. Exemple: Si j'appelle la fonction avec la liste [55,21,87,2,11], la fonction renvoie 2.
 4. En utilisant la liste d'objet "mois": Écrire une fonction getMonthNames(mois) qui reçoit "mois" comme paramètre et renvoie une chaîne de caractères avec les noms de tous les mois. Exemple: "Janvier, Fevrier, Mars..."
 5. En utilisant la liste d'objet "mois": Écrire une fonction getMonthNames31(mois) qui reçoit "mois" comme paramètre et renvoie une chaîne de caractères avec les noms de tous les mois qui ont 31 jours. Exemple: "Janvier, Mars, Mai..."
 
-## 5. Le code JavaScript du Cours 
+## 4. Le code JavaScript du Cours 
 ```
 let asbl="EQLA" 
 let prefix = 32 
